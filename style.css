@@ -51,7 +51,7 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 500px;/*Change 800px to 500px so to help user know there is more information to scroll down to*/
     width: 100%;
     margin-bottom: 25px;
     background-image: url("digital-marketing-meeting.jpg");
